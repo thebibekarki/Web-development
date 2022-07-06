@@ -1,0 +1,22 @@
+#port{
+    color:#023F4D;
+    font-family: Inter,Arial, Helvetica, sans-serif;
+    font-size:25 px;
+    text-align: left;
+
+
+}
+#center{
+    color:black;
+    font-family:Inter,Arial;
+    font-size:25 px;
+    text-align:center;
+    font-weight:bold;
+}
+#right
+{
+    text-align:right;
+    font-family:'Times New Roman', Times, serif;
+    color:black;
+    font-weight:thin;
+}
